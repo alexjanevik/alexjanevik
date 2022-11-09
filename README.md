@@ -2,7 +2,7 @@
 // -*- coding: utf-8 -*-
 
 function aboutMe() {
-    const myInfo = {
+    return {
         name: 'Alex Janevik',
         color: '#7FA046',
         primarilyDevelopingWith: [
@@ -18,18 +18,13 @@ function aboutMe() {
             'three.js'
         ]
     };
-
-    return myInfo;
-    
 }
 
 function currentlyStuding() {
-    const myEducation = {
+    return {
         school: 'University of Queensland',
         degree: 'Computer Science',
         majors: ['Machine Learning', 'Programming Languages']
     };
-
-    return myEducation;
 }
 ```
