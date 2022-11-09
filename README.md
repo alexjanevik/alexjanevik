@@ -1,16 +1,35 @@
-### Hi there 👋
+```js
+// -*- coding: utf-8 -*-
 
-<!--
-**alexjanevik/alexjanevik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+function aboutMe() {
+    const myInfo = {
+        name: 'Alex Janevik',
+        color: '#7FA046',
+        primarilyDevelopingWith: [
+            'Node.js',
+            'React',
+            'SQL',
+            'Python',
+            'C#'
+        ],
+        planningOnLearning: [
+            'Rust',
+            'OpenGL',
+            'three.js'
+        ]
+    };
 
-Here are some ideas to get you started:
+    return myInfo;
+    
+}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+function currentlyStuding() {
+    const myEducation = {
+        school: 'University of Queensland',
+        degree: 'Computer Science',
+        majors: ['Machine Learning', 'Programming Languages']
+    };
+
+    return myEducation;
+}
+```
