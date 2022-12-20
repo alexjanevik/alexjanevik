@@ -12,7 +12,7 @@ function aboutMe() {
             'Python',
             'C#'
         ],
-        planningOnLearning: [
+        currentlyLearning: [
             'Rust',
             'OpenGL',
             'three.js'
