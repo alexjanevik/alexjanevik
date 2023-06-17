@@ -10,7 +10,7 @@ function aboutMe() {
             'React',
             'SQL',
             'Python',
-            'C#'
+            'C'
         ],
         currentlyLearning: [
             'Rust',
