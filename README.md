@@ -4,15 +4,13 @@
 function aboutMe() {
     return {
         name: 'Alex Janevik',
-        color: '#7FA046',
-        primarilyDevelopingWith: [
+        nice_colour: '#7FA046',
+        primarily_developing_with: [
             'Node.js',
             'React',
-            'SQL',
-            'Python',
-            'C'
+            'MySQL'
         ],
-        currentlyLearning: [
+        currently_learning: [
             'Rust',
             'OpenGL',
             'three.js'
