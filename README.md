@@ -10,7 +10,8 @@ function aboutMe() {
             'React',
             'MySQL'
         ],
-        currently_learning: [
+        currently_experimenting: [
+            'MongoDB',
             'Rust',
             'OpenGL',
             'three.js'
