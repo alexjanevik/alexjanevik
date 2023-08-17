@@ -8,7 +8,7 @@ function about_me() {
         primarilyDevelopingIn: [
             'React',
             'Flutter',
-			'MongoDB',
+            'MongoDB',
             'Node.js'
         ],
         currentlyExperimenting: [
