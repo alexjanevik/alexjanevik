@@ -23,7 +23,7 @@ function currently_studing() {
     return {
         school: 'University of Queensland',
         degree: 'Computer Science',
-        majors: ['Machine Learning', 'Programming Languages']
+        majors: ['Machine Learning', 'Programming Languages'],
         gpa: calculate_gpa()
     };
 }
