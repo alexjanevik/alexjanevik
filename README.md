@@ -6,15 +6,15 @@ function about_me() {
         name: 'Alex Janevik',
         niceColour: '#7FA046',
         primarilyDevelopingIn: [
-            'Node.js',
             'React',
-            'MySQL'
+            'Flutter',
+			'MongoDB',
+            'Node.js'
         ],
         currentlyExperimenting: [
-            'Flutter',
             'Svelte',
-            'MongoDB',
             'Rust',
+            'OpenGL'
         ]
     };
 }
