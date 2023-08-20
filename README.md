@@ -5,7 +5,7 @@ function about_me() {
     return {
         name: 'Alex Janevik',
         niceColour: '#7FA046',
-        primarilyDevelopingIn: [
+        primarilyDevlopingWith: [
             'React',
             'Flutter',
             'MongoDB',
@@ -19,7 +19,7 @@ function about_me() {
     };
 }
 
-function currently_studing() {
+function get_study_info() {
     return {
         school: 'University of Queensland',
         degree: 'Computer Science',
