@@ -1,7 +1,7 @@
 ```js
 // -*- coding: utf-8 -*-
 
-function about_me() {
+function get_about_me() {
     return {
         name: 'Alex Janevik',
         niceColour: '#7FA046',
@@ -24,11 +24,11 @@ function get_study_info() {
         school: 'University of Queensland',
         degree: 'Computer Science',
         majors: ['Machine Learning', 'Programming Languages'],
-        gpa: calculate_gpa()
+        gpa: get_gpa()
     };
 }
 
-function calculate_gpa() {
+function get_gpa() {
     return 0;
 }
 ```
