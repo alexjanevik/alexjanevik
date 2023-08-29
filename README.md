@@ -9,7 +9,8 @@ function get_about_me() {
             'React',
             'Flutter',
             'MongoDB',
-            'Node.js'
+            'Node.js',
+            'C'
         ],
         currentlyExperimenting: [
             'Svelte',
