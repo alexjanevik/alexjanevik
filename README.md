@@ -7,7 +7,6 @@ function get_about_me() {
         niceColour: '#7FA046',
         primarilyDevlopingWith: [
             'React',
-            'Flutter',
             'MongoDB',
             'Node.js',
             'C'
