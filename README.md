@@ -9,9 +9,10 @@ function get_about_me() {
             'React',
             'MongoDB',
             'Node.js',
+            'Python',
             'C'
         ],
-        currentlyExperimenting: [
+        playingAround: [
             'Svelte',
             'Rust',
             'OpenGL'
