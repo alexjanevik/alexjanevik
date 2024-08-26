@@ -4,32 +4,28 @@
 function get_about_me() {
     return {
         name: 'Alex Janevik',
-        niceColour: '#7FA046',
-        primarilyDevlopingWith: [
-            'React',
-            'MongoDB',
-            'Node.js',
-            'Python',
-            'C'
-        ],
-        playingAround: [
-            'Svelte',
-            'Rust',
-            'OpenGL'
+        banger: '#55c746',
+        primarily_devloping_with: [
+            "React",
+            "MongoDB",
+            "Node.js",
+            "Python",
+            "C",
         ]
     };
 }
 
 function get_study_info() {
     return {
-        school: 'University of Queensland',
-        degree: 'Computer Science',
-        majors: ['Machine Learning', 'Programming Languages'],
+        school: "University of Queensland",
+        degree: "Computer Science",
+        majors: ["Machine Learning", "Programming Languages"],
         gpa: get_gpa()
     };
 }
 
 function get_gpa() {
-    return 0;
+    // :3
+    return 0.0;
 }
 ```
