@@ -1,31 +1,9 @@
-```js
-// -*- coding: utf-8 -*-
+### Hello!! :) 👋
 
-function get_about_me() {
-    return {
-        name: 'Alex Janevik',
-        banger: '#55c746',
-        primarily_devloping_with: [
-            "React",
-            "MongoDB",
-            "Node.js",
-            "Python",
-            "C",
-        ]
-    };
-}
+##### I'm a computer science student at the University of Queensland</br>majoring in Machine Learning 🤖 and Programming Languages 🐍
 
-function get_study_info() {
-    return {
-        school: "University of Queensland",
-        degree: "Computer Science",
-        majors: ["Machine Learning", "Programming Languages"],
-        gpa: get_gpa()
-    };
-}
+Take a peek at [janevik.net](https://janevik.net)!
 
-function get_gpa() {
-    // :3
-    return 0.0;
-}
-```
+- ☀️ He/him
+- ⚙️ Actively devloping with: `.py`, `.glsl`, `.js`, `.jsx`, `.css`, `.html`
+- 📚 Experienced with: `.c`, `.cs`, `.java`, `.hs`
