@@ -5,5 +5,5 @@
 Take a peek at [janevik.net](https://janevik.net)
 
 - ☀️ He/him
-- ⚙️ Actively devloping with: `.py`, `.glsl`, `.ts`, `.tsx`, `.css`, `.html`
-- 📚 Experience in: `.c`, `.cs`, `.java`
+- ⚙️ Actively devloping with: `.py`, `.ts`, `.tsx`, `.css`, `.html`, `.java`
+- 📚 Experience in: `.c`, `.cs`, `glsl`
