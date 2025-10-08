@@ -1,6 +1,6 @@
 ### Hello!! I'm Alex :) 👋
 
-##### Computer science student at the University of Queensland 🎓</br>majoring in Machine Learning 🤖 and Programming Languages 🐍
+##### Computer science student at the University of Queensland 🎓</br>majoring in Machine Learning 🤖
 
 Take a peek at [janevik.net](https://janevik.net)
 
