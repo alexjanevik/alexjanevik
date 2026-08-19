@@ -1,4 +1,4 @@
-### Hello!! I'm Alex :)
+### Hello!! I'm Alex 8)
 
 ##### I'm a computer science student at the University of Queensland majoring in Machine Learning
 
