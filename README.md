@@ -5,4 +5,4 @@
 Take a peek at [janevik.net](https://janevik.net)
 
 - ☀️ He/him
-- ⚙️ Experience in: `.py`, `.js`, `.cs`, `.c`, `.java`, `glsl`
+- ⚙️ Experience in: `.py`, `.ts`, `.cpp`, `.cs`, `.java`, `glsl`
